@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AccountingInfoSystem_withMFC", "AccountingInfoSystem_withMFC.vcxproj", "{414F7551-8648-457E-8EBF-E00659C83700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{414F7551-8648-457E-8EBF-E00659C83700}.Debug|Win32.ActiveCfg = Debug|Win32
+		{414F7551-8648-457E-8EBF-E00659C83700}.Debug|Win32.Build.0 = Debug|Win32
+		{414F7551-8648-457E-8EBF-E00659C83700}.Release|Win32.ActiveCfg = Release|Win32
+		{414F7551-8648-457E-8EBF-E00659C83700}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
